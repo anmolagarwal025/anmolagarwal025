@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anmol Agarwal
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Blockchain , Data Science, Web development, Software Development.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anmolagarwal025@gmail.com
